@@ -13,3 +13,6 @@
 ## Commit 4
 - isOdd(9) returned true
 - isOdd(12) returned false
+
+## Commit 5
+- multiply(7, 8) returned 56
