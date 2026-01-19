@@ -9,3 +9,7 @@
 ## Commit 3
 - isEven(10) should return true
 - isEven(7) should return false
+
+## Commit 4
+- isOdd(9) should return true
+- isOdd(12) should return false
